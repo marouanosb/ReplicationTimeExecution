@@ -1,2 +1,2 @@
 # ReplicationTimeExecution
-script that replicates dice output replication n times and its averages with plot.
+A script that replicates dice output replication n times with its averages and shows the appropriate plot.
